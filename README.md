@@ -1,4 +1,4 @@
-vimconfig
+linux config
 =========
 
-My personal vim configuration
+My personal linux configuration
